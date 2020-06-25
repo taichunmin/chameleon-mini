@@ -1,0 +1,4 @@
+usbser.sys	复制到C:\Windows\System32\drivers，如果已经有了不要替换。
+
+mdmcpq.inf	复制到C:\Windows\inf
+mdmcpq.PN	复制到C:\Windows\inf
